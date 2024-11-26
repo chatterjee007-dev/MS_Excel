@@ -76,5 +76,5 @@ This project highlights critical Excel capabilities:
 ---
 
 ## **Conclusion**
-This project underscores the power of Excel in transforming and formatting data. By applying formulas like `ROUND`, `TEXT`, `LEFT`, `MID`, and `RIGHT`, complex data formatting tasks were performed with precision. It demonstrates strong data handling and presentation capabilities, making it an excellent portfolio addition for aspiring data analysts.
+This project underscores the power of Excel in transforming and formatting data. By applying formulas like `ROUND`, `TEXT`, `LEFT`, `MID`, and `RIGHT`, complex data formatting tasks were performed with precision. 
 
