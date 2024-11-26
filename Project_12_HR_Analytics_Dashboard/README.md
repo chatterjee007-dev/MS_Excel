@@ -19,7 +19,7 @@ The primary goal of this dashboard is to identify critical factors driving emplo
 ## Dashboard Overview  
 The dashboard is divided into several key sections:  
 
-![HR Analytics Dashboard](path/to/dashboard-image.png)  
+![HR Analytics Dashboard](HR_Analytics_Dashboard.png)  
 
 1. **Total Employees by Gender**:  
    - Female: **588**  
