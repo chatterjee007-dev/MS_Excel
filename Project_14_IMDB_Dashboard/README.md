@@ -38,7 +38,7 @@ The dashboard aims to analyze **movie performance metrics** across various categ
 1. **Overall Movie Metrics**  
    - **Total Movies**: **3,725**  
    - **Format**: **97% Color**, **3% Black & White**  
-   - **IMDB Score Range**: **1.6 to 9.0**  
+   - **IMDB Score Range**: **1.6 to 9.3**  
 
 2. **Country-Wise Financials**  
    - **USA** dominates in both **budget** and **gross revenue**, followed by the UK, India, and Japan.  
