@@ -3,6 +3,8 @@
 ## **Overview**
 This project demonstrates advanced data analysis skills using MS Excel to analyze budget and expense records. By leveraging Excel functions, meaningful insights were derived through conditional calculations and error handling. The project showcases essential Excel expertise, valuable for roles requiring data-driven decision-making.
 
+![Project Overview](Project_02_Image.png)
+
 ---
 
 ## **Key Features**
