@@ -23,7 +23,8 @@ To help Vrinda Store understand their customers, identify top-performing regions
 
 ## **Dashboard Overview**
 ### **Sales Trends Dashboard**
-![Dashboard Analysis](Project_07_Image(1).png)
+
+![Dashboard Analysis](Dashboard_Image.png)
 
 #### **Key Visualizations**
 1. **Sales Overview Chart**:
