@@ -35,7 +35,7 @@ This project showcases advanced data analysis skills using MS Excel to analyze v
 
 ### Main Sheet - Dataset
 
-![Main Sheet](Images/Sheet_1.png)
+![Main Sheet](Images/Main_Sheet_Dataset.png)
 - **Month Column (O4)**: `=TEXT(M4, "mmmm")`  
   Converts the date in cell M4 to the full month name.
 - **PO Amount Column (Q6)**: `=SUMIF(O4:O251, P6, G4:G251)`  
@@ -71,7 +71,7 @@ This project showcases advanced data analysis skills using MS Excel to analyze v
 
 ### Vendor Wise Voucher Amount
 
-![Voucher Amount Vendor Wise Sheet](Images/Voucher_Amount_Vendor_Wise.png)
+![Voucher Amount Vendor Wise Sheet](Images/Vendor_Wise_Voucher_Amount.png)
 - **Grouping by Vendor using Power Query**  
   Grouped the data by vendor to aggregate the voucher amounts.
 - **Total Voucher Amount (B2)**: `=SUM(B4:B64)`  
