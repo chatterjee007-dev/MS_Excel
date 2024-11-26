@@ -23,7 +23,7 @@ This dashboard aims to **track and optimize Amazon's sales performance** by anal
 
 ## **Dashboard Snapshot**  
 
-![Amazon Sales Dashboard](path/to/optimized-dashboard-image.png)
+![Amazon Sales Dashboard](Dashboard_Image.png)
 
 ### **Key Sections**  
 
