@@ -26,7 +26,7 @@ To help Vrinda Store understand their customers, identify top-performing regions
 
 ![Dashboard Analysis](Dashboard_Image.png)
 
-#### **Key Visualizations**
+### **Key Visualizations**
 1. **Sales Overview Chart**:
    - **Purpose**: Tracks monthly sales performance across 2022.
    - **Insight**: Identifies peak sales months (e.g., March, June, December) and seasonal trends.
@@ -47,7 +47,7 @@ To help Vrinda Store understand their customers, identify top-performing regions
    - **Purpose**: Displays monthly sales growth.
    - **Insight**: Significant growth in June and December due to promotions.
 
-#### **Dynamic Filters (Slicers)**:
+### **Dynamic Filters (Slicers)**:
 - **Month**: Filter data by specific months.
 - **Region**: Analyze sales performance by region.
 - **Customer Type**: Segment data by customer type (e.g., VIP, Regular).
@@ -111,5 +111,5 @@ The 2022 sales analysis highlights Vrinda Store's strengths, including peak mont
 
 ---
 
-### **Final Note**
+## **Final Note**
 This analysis combines advanced visualizations, actionable insights, and strategic recommendations to help Vrinda Store unlock new growth opportunities in 2023.
