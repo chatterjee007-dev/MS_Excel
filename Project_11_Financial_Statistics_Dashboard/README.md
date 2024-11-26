@@ -47,8 +47,8 @@ The dashboard includes:
 2. **Income Sources and Geography Filters** to customize data exploration.  
 
 ### Dashboard Images:  
-![Dashboard Image 1](file:///mnt/data/image.png)  
-![Dashboard Image 2](file:///mnt/data/image.png)  
+![Dashboard Image 1](Images/Income_Sources_Dashboard.png)  
+![Dashboard Image 2](Images/Geographic_Dashboard.png)  
 
 ---
 
