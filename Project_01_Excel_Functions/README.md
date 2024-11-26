@@ -2,7 +2,6 @@
 
 ## **Overview**
 This project showcases advanced data analysis skills using MS Excel to analyze employee records. By leveraging Excel functions, meaningful insights were derived through conditional counting, summation, and aggregation. The project demonstrates essential Excel expertise, valuable for roles requiring data-driven decision-making.
-![Project Overview](images/employee-records-overview.png)
 ---
 
 ## **Key Features**
