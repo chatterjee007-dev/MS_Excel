@@ -31,7 +31,7 @@ The dashboard aims to analyze **movie performance metrics** across various categ
 
 ## **Dashboard Highlights**  
 
-![IMDB Movie Dashboard](path/to/dashboard-image.png)  
+![IMDB Movie Dashboard](Dashboard_Image.png)  
 
 ### **Key Sections**  
 
