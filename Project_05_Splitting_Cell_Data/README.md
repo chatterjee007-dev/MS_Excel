@@ -1,7 +1,9 @@
-# **Analyzing Contract Expiry Dates**
+# **Analyzing Contract Expiry Dates By Splitting Cell Data**
 
 ## **Overview**
 This project demonstrates advanced data analysis skills using MS Excel to extract and categorize specific components of contract expiry dates. By leveraging functions like DAY, YEAR, TEXT, and IF, the project automates the process of breaking down dates into periods, financial years, months, and quarters. This showcases essential Excel expertise, valuable for roles requiring data-driven decision-making.
+
+![Project Overview](Project_05_Image.png)
 
 ---
 
