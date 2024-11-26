@@ -21,7 +21,7 @@ The dashboard aims to analyze **movie performance metrics** across various categ
 - **High-Level Metrics**:  
   - **Total Movies Analyzed**: **3,725**  
   - **Format Distribution**: **97% Color**, **3% Black & White**  
-  - **IMDB Score Range**: **1.6 to 9.0**  
+  - **IMDB Score Range**: **1.6 to 9.3**  
 - **Advanced Visualizations**:  
   - Genre-wise performance analysis.  
   - Country-wise budget and revenue comparison.  
