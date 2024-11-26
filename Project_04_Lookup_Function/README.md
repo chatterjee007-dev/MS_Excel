@@ -1,7 +1,9 @@
-# **Populating Columns Using VLOOKUP in MS Excel**
+# **Populating Columns Using Lookup Functions**
 
 ## **Overview**
 This project demonstrates advanced data analysis skills using MS Excel to populate the 'Show' and 'Letter Grade' columns based on given data. By leveraging the powerful VLOOKUP function, the project automates the process of matching character names to their respective shows and numerical grades to their corresponding letter grades. This showcases essential Excel expertise, valuable for roles requiring data-driven decision-making.
+
+![Project Overview](Project_04_Image.png)
 
 ---
 
