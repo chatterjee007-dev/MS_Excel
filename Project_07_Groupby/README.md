@@ -33,9 +33,9 @@ This project showcases advanced data analysis skills using MS Excel to analyze v
 
 ## **How the Formulas and Power Query Work**
 
-### Main Sheet
+### Main Sheet - Dataset
 
-![Main Sheet](Project_07_Image(1).png)
+![Main Sheet](Images/Sheet_1.png)
 - **Month Column (O4)**: `=TEXT(M4, "mmmm")`  
   Converts the date in cell M4 to the full month name.
 - **PO Amount Column (Q6)**: `=SUMIF(O4:O251, P6, G4:G251)`  
@@ -45,49 +45,49 @@ This project showcases advanced data analysis skills using MS Excel to analyze v
 - **Fund Column (Q14)**: `=SUM(J4:J251)`  
   Sums the fund amounts in J4:J251.
 
-### PO Amount Monthly Sheet
+### Month Wise PO Amount 
 
-![PO Amount Monthly Sheet](Project_07_Image(2).png)
+![PO Amount Monthly Sheet](Images/Month_Wise_PO_Amount.png)
 - **Grouping by Month using Power Query**  
   Grouped the data by month to aggregate the purchase order amounts.
 - **Total PO Amount (B2)**: `=SUM(B4:B5)`  
   Sums the purchase order amounts for each grouped month.
 
-### PO Amount Vendor Wise Sheet
+### Vendor Wise PO Amount 
 
-![PO Amount Vendor Wise Sheet](Project_07_Image(3).png)
+![PO Amount Vendor Wise Sheet](Images/Vendor_Wise_PO_Amount.png)
 - **Grouping by Vendor using Power Query**  
   Grouped the data by vendor to aggregate the purchase order amounts.
 - **Total PO Amount (B2)**: `=SUM(B4:B64)`  
   Sums the purchase order amounts for each grouped vendor.
 
-### Voucher Amount Monthly Sheet
+### Month Wise Voucher Amount
 
-![Voucher Amount Monthly Sheet](Project_07_Image(4).png)
+![Voucher Amount Monthly Sheet](Images/Month_Wise_Voucher_Amount.png)
 - **Grouping by Month using Power Query**  
   Grouped the data by month to aggregate the voucher amounts.
 - **Total Voucher Amount (B2)**: `=SUM(B4:B5)`  
   Sums the voucher amounts for each grouped month.
 
-### Voucher Amount Vendor Wise Sheet
+### Vendor Wise Voucher Amount
 
-![Voucher Amount Vendor Wise Sheet](Project_07_Image(5).png)
+![Voucher Amount Vendor Wise Sheet](Images/Voucher_Amount_Vendor_Wise.png)
 - **Grouping by Vendor using Power Query**  
   Grouped the data by vendor to aggregate the voucher amounts.
 - **Total Voucher Amount (B2)**: `=SUM(B4:B64)`  
   Sums the voucher amounts for each grouped vendor.
 
-### Monthly Fund Sheet
+### Monthly Fund 
 
-![Monthly Fund Sheet](Project_07_Image(6).png)
+![Monthly Fund Sheet](Images/Month_Wise_Fund.png)
 - **Grouping by Month using Power Query**  
   Grouped the data by month to aggregate the fund amounts.
 - **Total Fund (B2)**: `=SUM(B4:B5)`  
   Sums the fund amounts for each grouped month.
 
-### Vendor Wise Fund Sheet
+### Vendor Wise Fund 
 
-![Vendor Wise Fund Sheet](Project_07_Image(7).png)
+![Vendor Wise Fund Sheet](Images/Vendor_Wise_Fund.png)
 - **Grouping by Vendor using Power Query**  
   Grouped the data by vendor to aggregate the fund amounts.
 - **Total Fund (B2)**: `=SUM(B4:B64)`  
