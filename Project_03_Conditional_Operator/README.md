@@ -1,7 +1,9 @@
-# **Categorizing Voucher Performance**
+# **Categorizing Voucher Performance Using Conditional Operator**
 
 ## **Overview**
 This project demonstrates advanced data analysis skills using MS Excel to categorize users based on the number of vouchers and the days between voucher entry and payment. By leveraging Excel functions, users are classified into two categories: "Bonus" or "Slacker" based on specific conditions. The project highlights essential Excel expertise, valuable for roles requiring data-driven decision-making.
+
+![Project Overview](Project_03_Image.png)
 
 ---
 
