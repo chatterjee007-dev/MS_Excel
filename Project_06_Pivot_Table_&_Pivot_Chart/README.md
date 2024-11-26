@@ -30,8 +30,8 @@ This project showcases advanced data analysis skills using MS Excel to analyze o
 
   - **Formula in Cell K24**: `=SUM(K4:K23)`
   - This formula sums all the values from cells K4 to K23, providing a total for the green column.
- 
-  ![Pivot Table and Chart](Images/Project_06_Image(1).png)
+
+![Pivot Table and Chart](Images/Project_06_Image(1).png)
 
 - **Creating Pivot Table**:
   - Dragged the **Order Count** field to the **Values** area.
@@ -40,7 +40,7 @@ This project showcases advanced data analysis skills using MS Excel to analyze o
 - **Creating Pivot Chart**:
   - Based on the pivot table, created a pivot chart to visualize order counts over different dates.
 
-   ![Pivot Table and Chart](Images/Project_06_Image(2).png)
+![Pivot Table and Chart](Images/Project_06_Image(2).png)
 
 ---
 
