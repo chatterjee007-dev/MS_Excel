@@ -40,7 +40,7 @@ This project showcases advanced data analysis skills using MS Excel to analyze o
 - **Creating Pivot Chart**:
   - Based on the pivot table, created a pivot chart to visualize order counts over different dates.
 
-![Pivot Table and Chart](Project_06_Image(2).png)
+   ![Pivot Table and Chart](Project_06_Image(2).png)
 
 ---
 
